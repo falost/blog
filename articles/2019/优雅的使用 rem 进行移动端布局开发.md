@@ -1,7 +1,8 @@
 
 > 作者：falost
+> 
 > 原文地址：https://falost.cc/article/5d593827f3ad2c3fe3bc9ad9
-
+> 
 ### 缘起
 
 在工作中，移动APP端的同学问我，在移动web端中是如何去做不同的屏幕大小所展示的效果和设计图都是一致的？
